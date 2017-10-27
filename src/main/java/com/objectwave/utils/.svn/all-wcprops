@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/utils
+END
+SimpleEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/utils/SimpleEntry.java
+END
+AppContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/utils/AppContextProvider.java
+END
+JSONUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/utils/JSONUtils.java
+END
+ObjectWithIdResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/utils/ObjectWithIdResolver.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/utils/DateUtils.java
+END
+StreamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/utils/StreamUtils.java
+END

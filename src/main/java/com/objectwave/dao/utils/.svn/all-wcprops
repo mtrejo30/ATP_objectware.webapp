@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/dao/utils
+END
+DaoResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/dao/utils/DaoResult.java
+END
+DaoOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/dao/utils/DaoOrder.java
+END
+HibernateDaoTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/dao/utils/HibernateDaoTemplate.java
+END
+MyBatisDaoTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/dao/utils/MyBatisDaoTemplate.java
+END
+DaoQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/atp-solicitudes/!svn/ver/53/branches/requerimiento-5/objectwave-webapp-framework/src/main/java/com/objectwave/dao/utils/DaoQuery.java
+END
